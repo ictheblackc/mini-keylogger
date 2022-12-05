@@ -1,2 +1,2 @@
 # mini-keylogger
-A mini-keylogger on Python
+Mini-Keylogger on Python
